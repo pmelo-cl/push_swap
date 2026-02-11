@@ -51,7 +51,3 @@ Ejemplos:
  ./push_swap 1 6 3 8 "2 0"
  ./push_swap 0 1 4 2 "7" "8 9" 
  ```
- ## Recursos
- - https://www.geeksforgeeks.org/c/doubly-linked-list-in-c/
- - https://www.w3schools.com/c/c_structs.php
- - El uso de IA se uso para encontrar errores en el codigo cuando no se lograban encontrar por si solos, así como a la hora de ell discutir cual algorimtmo implementar en el proyecto
